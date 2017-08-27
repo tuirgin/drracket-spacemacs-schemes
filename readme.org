@@ -1,0 +1,14 @@
+* Spacemacs Themes for DrRacket
+
+** Installation
+
+#+begin_src sh
+  raco pkg install https://github.com/tuirgin/drracket-spacemacs-theme.git
+#+end_src
+
+** Screenshots
+
+| Scheme          | Screenshot                        |
+|-----------------+-----------------------------------|
+| Spacemacs Light | [[./img/spacemacs-light-572x132.png]] |
+| Spacemacs Dark  | [[./img/spacemacs-dark-572x132.png]]  |
