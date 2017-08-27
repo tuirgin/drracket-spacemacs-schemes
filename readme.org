@@ -1,9 +1,9 @@
-* Spacemacs Themes for DrRacket
+* Spacemacs Color Schemes for DrRacket
 
 ** Installation
 
 #+begin_src sh
-  raco pkg install https://github.com/tuirgin/drracket-spacemacs-theme.git
+  raco pkg install https://github.com/tuirgin/drracket-spacemacs-schemes.git
 #+end_src
 
 ** Screenshots
